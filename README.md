@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi SURYAKANT👋
 
 <!--
 **Surya-bera/surya-bera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,5 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+This is a first Repository.
+<br>
 Auther-Suryakanta Bera
 
